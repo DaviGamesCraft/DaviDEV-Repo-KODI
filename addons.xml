@@ -4,7 +4,7 @@
 		<extension point="xbmc.addon.repository" name="Repositorio do Addon">
 			<info compressed="false">http://raw.github.com/DaviGamesCraft/DaviDEV-Repo-KODI/master/addons.xml</info>
 			<checksum>http://raw.github.com/DaviGamesCraft/DaviDEV-Repo-KODI/master/addons.xml.md5</checksum>
-			<datadir zip="false">http://raw.github.com/DaviGamesCraft/DaviDEV-Repo-KODI/master/repo/</datadir>
+			<datadir zip="true">http://raw.github.com/DaviGamesCraft/DaviDEV-Repo-KODI/master/repo/</datadir>
 		</extension>
 		<extension point="xbmc.addon.metadata">
 			<summary>Repositorio com addons para canais de TV etc.</summary>
