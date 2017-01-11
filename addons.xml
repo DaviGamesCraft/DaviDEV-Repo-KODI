@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-	<addon id="repository.davidev" name="DaviDEV repository" version="0.0.2" provider-name="DaviDEV">
-		<extension point="xbmc.addon.repository" name="Repositorio do Addion">
+	<addon id="repository.davidev" name="DaviDEV repository" version="1.0" provider-name="DaviDEV">
+		<extension point="xbmc.addon.repository" name="Repositorio do Addon">
 			<info compressed="false">http://raw.github.com/DaviGamesCraft/DaviDEV-Repo-KODI/master/addons.xml</info>
 			<checksum>http://raw.github.com/DaviGamesCraft/DaviDEV-Repo-KODI/master/addons.xml.md5</checksum>
 			<datadir zip="false">http://raw.github.com/DaviGamesCraft/DaviDEV-Repo-KODI/master/repo/</datadir>
 		</extension>
 		<extension point="xbmc.addon.metadata">
-			<summary>DaviDEV Repo</summary>
-			<description>Repositorio do DaviDEV</description>
+			<summary>Repositorio com addons para canais de TV etc.</summary>
+			<description>Repositorio com addons criado por DaviDEV, e outros que o propio DaviDEV coloca.</description>
 			<disclaimer></disclaimer>
 			<platform>all</platform>
 		</extension>
@@ -27,8 +27,8 @@
 	  <extension point="xbmc.addon.metadata">
 		<language>pt-BR</language>
 		<platform>all</platform>
-		<summary lang="pt-BR">Addon do DaviDEV</summary>
-		<description lang="pt-BR">Addon do DaviDEV</description>
+		<summary lang="pt-BR">Addon do DaviDEV Com TV e Series</summary>
+		<description lang="pt-BR">Addon do DaviDEV, com todas as listas criada pelo mesmo (TV,Series,Filmes,Cracle,GDrvie, etc.) </description>
 		<platform>all</platform>
 	  </extension>
 	</addon>
