@@ -35,6 +35,8 @@
 		<extension point="xbmc.addon.metadata">
 			<summary>DaviDEV Stream</summary>
 			<description>Canais, series, cameras, e outros!</description>
+			<disclaimer></disclaimer>
+			<platform>all</platform>
 		</extension>
 	</addon>
 </addons>
