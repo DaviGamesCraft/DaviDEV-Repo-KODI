@@ -19,7 +19,7 @@
 		<import addon="xbmc.python" version="2.1.0"/>
 		<import addon="script.module.beautifulsoup4" version="4.3.2"/>
 		<import addon="script.common.plugin.cache" version="2.5.5"/>
-		<import addon="plugin.video.gdrive"/>
+		<import addon="plugin.video.gdrive" optional="true/>
 	  </requires>
 	  <extension point="xbmc.python.pluginsource" library="addon.py">
 		<provides>video</provides>
